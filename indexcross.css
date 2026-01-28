@@ -1,0 +1,472 @@
+html,
+body {
+    background-color:#f6f1ea;
+}
+
+.box1 {
+    width: 100%;
+    background-color: #f6f1ea;
+    text-align: center;
+
+}
+
+
+
+.box1 img {
+
+    float:unset;
+    width: 50%;
+    height: 50%;
+    border: 1px solid black;
+    
+    
+}
+
+
+
+.box1>h1 {
+    text-align: center;
+}
+
+.menu {
+    width: 100%;
+    background-color: #f6f1ea;
+    margin: 0px auto;
+    text-align: center;
+    padding-left: 35%;
+    padding-right: 40px;
+    padding-top: 25px;
+    padding-bottom: 90px;
+    text-align: left;
+}
+
+.menu>a {
+    padding: 8px;
+    font-size: 20px;
+    margin: 0 10px;
+    color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.menu2 {
+    width: 100%;
+    height: 100%;
+    margin: 0px auto;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 90px;
+    text-align: left;
+    background-color: burlywood;
+}
+
+.menu2>a {
+    padding: 8px;
+    font-size: 20px;
+    margin: 0 10px;
+    color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.menu3 {
+    width: 100%;
+    margin: 0px auto;
+    margin-left: 10px;
+    padding-right: 40px;
+    background-color: #f6f1ea;
+    padding-bottom: 90px;
+    text-align: left;
+    margin-top: 15px;
+
+}
+
+.menu3>a {
+    padding: 8px;
+    margin-left: 20px;
+    margin: 0 10px;
+    color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.div2 {
+    width: 100%;
+    max-width: 100%;
+    height: 100%;
+    text-align: center;
+    
+    color: white;
+    background-color: black;
+
+
+}
+
+.div2 p {
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    font-weight: bold;
+    margin-top: 15px;
+    color: yellow;
+
+
+}
+
+.div2 h1 {
+    color: white;
+}
+
+.div1 {
+    width: 100%;
+    max-width: 100%;
+    height: 100%;
+    text-align: center;
+    color: black;
+    background-color: #f6f1ea;
+}
+.div1 img {
+    float:unset;
+    width: 40%;
+    height: 200px;
+    border: 1px solid black;
+}
+
+.div1 p {
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    font-weight: bold;
+    margin-top: 15px;
+    color: black;
+
+}
+
+.div1>p,
+a {
+    font-size: 25px;
+    margin-left: 20px;
+    color: black;
+}
+
+.div1 h1 {
+    margin-left: 20px;
+}
+
+.div3 {
+    width: 100%;
+    max-width: 100%;
+    height: 100%;
+    text-align: left;
+    margin-left: 20px;
+    color: white;
+    background-color: black;
+
+
+}
+
+.div3 p {
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    font-weight: bold;
+    margin-top: 15px;
+    color: yellow;
+
+
+}
+
+.div3 h1 {
+    color: white;
+}
+
+
+.modal {
+  display: none; /* Oculto por padrão */
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.8); /* Fundo preto transparente */
+}
+
+/* Imagem da modal */
+.modal-content {
+  margin: auto;
+  display: block;
+  max-width: 90%;
+  max-height: 90%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Botão fechar */
+.fechar {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+
+/* Botão fechar */
+.fechar2 {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+/* Botão fechar */
+.fechar3 {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.fecharAL1 {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.fecharAL2 {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.fecharAL3 {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.fecharAL4 {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.fecharAL5 {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.fecharAL6 {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.fecharAL7 {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.fecharAL8 {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.fecharAL9 {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.fecharAL10 {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.fecharAL11 {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.fecharAL12 {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.fecharAL13 {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.fecharAL14 {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.fecharAL15 {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.fecharAL16 {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.fecharAL17 {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.fecharAL18 {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.fecharAL19 {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.fecharAL20 {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.fecharAL21 {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.fecharAL22 {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.fecharAL23 {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.fecharAL25 {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.fecharAL26 {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+
+.miniatura {
+    margin-left: 10%;
+}
