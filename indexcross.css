@@ -200,8 +200,8 @@ a {
 .modal-content {
   margin: auto;
   display: block;
-  max-width: 60%;
-  max-height: 60%;
+  max-width: 50%;
+  max-height: 50%;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -211,7 +211,7 @@ a {
 /* Botão fechar */
 .fechar {
   position: absolute;
-  top: 15px;
+  top: 5px;
   right: 35px;
   color: white;
   font-size: 40px;
@@ -223,7 +223,7 @@ a {
 /* Botão fechar */
 .fechar2 {
   position: absolute;
-  top: 15px;
+  top: 5px;
   right: 35px;
   color: white;
   font-size: 40px;
@@ -233,7 +233,7 @@ a {
 /* Botão fechar */
 .fechar3 {
   position: absolute;
-  top: 15px;
+  top: 5px;
   right: 35px;
   color: white;
   font-size: 40px;
@@ -242,7 +242,7 @@ a {
 }
 .fecharAL1 {
   position: absolute;
-  top: 15px;
+  top: 5px;
   right: 35px;
   color: white;
   font-size: 40px;
@@ -251,7 +251,7 @@ a {
 }
 .fecharAL2 {
   position: absolute;
-  top: 15px;
+  top: 5px;
   right: 35px;
   color: white;
   font-size: 40px;
@@ -260,7 +260,7 @@ a {
 }
 .fecharAL3 {
   position: absolute;
-  top: 15px;
+  top: 5px;
   right: 35px;
   color: white;
   font-size: 40px;
@@ -269,7 +269,7 @@ a {
 }
 .fecharAL4 {
   position: absolute;
-  top: 15px;
+  top: 5px;
   right: 35px;
   color: white;
   font-size: 40px;
@@ -278,7 +278,7 @@ a {
 }
 .fecharAL5 {
   position: absolute;
-  top: 15px;
+  top: 5px;
   right: 35px;
   color: white;
   font-size: 40px;
@@ -287,7 +287,7 @@ a {
 }
 .fecharAL6 {
   position: absolute;
-  top: 15px;
+  top: 5px;
   right: 35px;
   color: white;
   font-size: 40px;
@@ -296,7 +296,7 @@ a {
 }
 .fecharAL7 {
   position: absolute;
-  top: 15px;
+  top: 5px;
   right: 35px;
   color: white;
   font-size: 40px;
@@ -305,7 +305,7 @@ a {
 }
 .fecharAL8 {
   position: absolute;
-  top: 15px;
+  top: 5px;
   right: 35px;
   color: white;
   font-size: 40px;
@@ -314,7 +314,7 @@ a {
 }
 .fecharAL9 {
   position: absolute;
-  top: 15px;
+  top: 5px;
   right: 35px;
   color: white;
   font-size: 40px;
@@ -323,7 +323,7 @@ a {
 }
 .fecharAL10 {
   position: absolute;
-  top: 15px;
+  top: 5px;
   right: 35px;
   color: white;
   font-size: 40px;
@@ -332,7 +332,7 @@ a {
 }
 .fecharAL11 {
   position: absolute;
-  top: 15px;
+  top: 5px;
   right: 35px;
   color: white;
   font-size: 40px;
@@ -341,7 +341,7 @@ a {
 }
 .fecharAL12 {
   position: absolute;
-  top: 15px;
+  top: 5px;
   right: 35px;
   color: white;
   font-size: 40px;
@@ -350,7 +350,7 @@ a {
 }
 .fecharAL13 {
   position: absolute;
-  top: 15px;
+  top: 5px;
   right: 35px;
   color: white;
   font-size: 40px;
@@ -359,7 +359,7 @@ a {
 }
 .fecharAL14 {
   position: absolute;
-  top: 15px;
+  top: 5px;
   right: 35px;
   color: white;
   font-size: 40px;
@@ -368,7 +368,7 @@ a {
 }
 .fecharAL15 {
   position: absolute;
-  top: 15px;
+  top: 5px;
   right: 35px;
   color: white;
   font-size: 40px;
@@ -377,7 +377,7 @@ a {
 }
 .fecharAL16 {
   position: absolute;
-  top: 15px;
+  top: 5px;
   right: 35px;
   color: white;
   font-size: 40px;
@@ -386,7 +386,7 @@ a {
 }
 .fecharAL17 {
   position: absolute;
-  top: 15px;
+  top: 5px;
   right: 35px;
   color: white;
   font-size: 40px;
@@ -395,7 +395,7 @@ a {
 }
 .fecharAL18 {
   position: absolute;
-  top: 15px;
+  top: 5px;
   right: 35px;
   color: white;
   font-size: 40px;
@@ -404,7 +404,7 @@ a {
 }
 .fecharAL19 {
   position: absolute;
-  top: 15px;
+  top: 5px;
   right: 35px;
   color: white;
   font-size: 40px;
@@ -413,7 +413,7 @@ a {
 }
 .fecharAL20 {
   position: absolute;
-  top: 15px;
+  top: 5px;
   right: 35px;
   color: white;
   font-size: 40px;
@@ -422,7 +422,7 @@ a {
 }
 .fecharAL21 {
   position: absolute;
-  top: 15px;
+  top: 5px;
   right: 35px;
   color: white;
   font-size: 40px;
@@ -431,7 +431,7 @@ a {
 }
 .fecharAL22 {
   position: absolute;
-  top: 15px;
+  top: 5px;
   right: 35px;
   color: white;
   font-size: 40px;
@@ -440,7 +440,7 @@ a {
 }
 .fecharAL23 {
   position: absolute;
-  top: 15px;
+  top: 5px;
   right: 35px;
   color: white;
   font-size: 40px;
@@ -449,7 +449,7 @@ a {
 }
 .fecharAL25 {
   position: absolute;
-  top: 15px;
+  top: 5px;
   right: 35px;
   color: white;
   font-size: 40px;
@@ -458,7 +458,7 @@ a {
 }
 .fecharAL26 {
   position: absolute;
-  top: 15px;
+  top: 5px;
   right: 35px;
   color: white;
   font-size: 40px;
