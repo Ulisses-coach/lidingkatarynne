@@ -184,6 +184,23 @@ a {
     color: white;
 }
 
+.imagem {
+    width: 100%;
+    max-width: 100%;
+    height: 100%;
+    text-align: center;
+    color: black;
+    background-color: #f6f1ea;
+}
+
+.imagem img {
+
+    float:unset;
+    width: 100%;
+    height: 100%;
+    border: 1px solid black;
+}
+
 
 .modal {
   display: none; /* Oculto por padrão */
@@ -211,8 +228,8 @@ a {
 /* Botão fechar */
 .fechar {
   position: absolute;
-  top: 5px;
-  right: 35px;
+  top: 35px;
+  right: 50%;
   color: white;
   font-size: 40px;
   font-weight: bold;
