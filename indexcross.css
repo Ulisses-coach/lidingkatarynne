@@ -200,8 +200,8 @@ a {
 .modal-content {
   margin: auto;
   display: block;
-  max-width: 70%;
-  max-height: 70%;
+  max-width: 60%;
+  max-height: 60%;
   position: absolute;
   top: 50%;
   left: 50%;
